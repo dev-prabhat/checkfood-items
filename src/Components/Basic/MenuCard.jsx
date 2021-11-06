@@ -3,7 +3,7 @@ import React from 'react'
 
 const MenuCard = ({item}) =>{
     
-    const {id , name, category , image , price, description} = item
+    const {id , name, category , image , description} = item
 
     return(
             <div className="card">
